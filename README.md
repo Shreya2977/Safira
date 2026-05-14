@@ -137,6 +137,13 @@ Not just during emergencies — but throughout their entire journey.
 
 ---
 
+<img width="268" height="501" alt="WhatsApp Image 2026-05-14 at 2 28 05 PM" src="https://github.com/user-attachments/assets/c0534c26-4324-4823-b5b1-2373d3e5105d" />
+<img width="278" height="499" alt="WhatsApp Image 2026-05-14 at 2 28 07 PM" src="https://github.com/user-attachments/assets/13d44447-5be3-4a7b-a5eb-f7330bb72b95" />
+<img width="271" height="496" alt="WhatsApp Image 2026-05-14 at 2 28 08 PM" src="https://github.com/user-attachments/assets/ab38a6f5-199b-42d3-ab22-f41050669254" />
+
+
+
+
 ## 🤝 Contributing
 
 Contributions are welcome.  
