@@ -144,11 +144,6 @@ Not just during emergencies — but throughout their entire journey.
 
 
 
-## 🤝 Contributing
-
-Contributions are welcome.  
-Fork the repository and submit a pull request to improve Safira.
-
 ---
 
 ## 📜 License
